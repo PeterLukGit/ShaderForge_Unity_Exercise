@@ -8,7 +8,7 @@ Unity 2017.4.27f1
 
 自己製作ShaderForge的練習
 
-責任聲明：
+# 責任聲明：
 
 [Blog位置](https://peterlukgit.github.io/)
 
