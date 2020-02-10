@@ -8,6 +8,8 @@ Unity 2017.4.27f1
 
 自己製作ShaderForge的練習
 
+![](https://github.com/PeterLukGit/ShaderForge_Unity_Exercise/blob/master/01.PNG)
+
 # 責任聲明：
 
 [Blog位置](https://peterlukgit.github.io/)
